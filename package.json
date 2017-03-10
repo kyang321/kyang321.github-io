@@ -1,0 +1,26 @@
+{
+  "name": "kyang321.github.io",
+  "version": "1.0.0",
+  "description": "Personal site",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyang321/kyang321.github.io.git"
+  },
+  "author": "Kenny Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyang321/kyang321.github.io/issues"
+  },
+  "homepage": "https://github.com/kyang321/kyang321.github.io#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
